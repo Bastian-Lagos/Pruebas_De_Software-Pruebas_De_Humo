@@ -2,6 +2,8 @@
 
 API REST que genera planes de estudio personalizados usando un LLM (via OpenRouter). Incluye validaciones de entrada, validaciones de coherencia del plan y smoke tests con Cypress.
 
+**Integrantes:** Billy Martinez, Bastian Lagos  
+
 ---
 
 ## Stack tecnológico
